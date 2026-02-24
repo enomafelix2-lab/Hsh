@@ -1,0 +1,219 @@
+{
+  "HighSchoolFootballAmerica300": [
+    {
+      "state": "Alabama",
+      "teams": [
+        {
+          "name": "Thompson High School",
+          "logoUrl": "",
+          "hsfaRank": 14
+        }
+      ]
+    },
+    {
+      "state": "Arizona",
+      "teams": [
+        {
+          "name": "Liberty High School",
+          "logoUrl": "",
+          "hsfaRank": 25
+        }
+      ]
+    },
+    {
+      "state": "California",
+      "teams": [
+        {
+          "name": "Mater Dei High School",
+          "logoUrl": "",
+          "hsfaRank": 1
+        },
+        {
+          "name": "St. John Bosco High School",
+          "logoUrl": "",
+          "hsfaRank": 2
+        },
+        {
+          "name": "Corona Centennial High School",
+          "logoUrl": "",
+          "hsfaRank": 15
+        },
+        {
+          "name": "Orange Lutheran High School",
+          "logoUrl": "",
+          "hsfaRank": 20
+        },
+        {
+          "name": "Mission Viejo High School",
+          "logoUrl": "",
+          "hsfaRank": 24
+        },
+        {
+          "name": "Santa Margarita High School",
+          "logoUrl": "",
+          "hsfaRank": 27
+        },
+        {
+          "name": "Lincoln High School (San Diego)",
+          "logoUrl": "",
+          "hsfaRank": 29
+        }
+      ]
+    },
+    {
+      "state": "Florida",
+      "teams": [
+        {
+          "name": "IMG Academy",
+          "logoUrl": "",
+          "hsfaRank": 5
+        },
+        {
+          "name": "St. Thomas Aquinas High School",
+          "logoUrl": "",
+          "hsfaRank": 10
+        },
+        {
+          "name": "Venice High School",
+          "logoUrl": "",
+          "hsfaRank": 17
+        },
+        {
+          "name": "Chaminade-Madonna College Prep",
+          "logoUrl": "",
+          "hsfaRank": 19
+        },
+        {
+          "name": "American Heritage School (Plantation)",
+          "logoUrl": "",
+          "hsfaRank": 21
+        },
+        {
+          "name": "Northwestern High School (Miami)",
+          "logoUrl": "",
+          "hsfaRank": 23
+        },
+        {
+          "name": "Lakeland High School",
+          "logoUrl": "",
+          "hsfaRank": 30
+        },
+        {
+          "name": "The First Academy (Orlando)",
+          "logoUrl": "",
+          "hsfaRank": 34
+        }
+      ]
+    },
+    {
+      "state": "Georgia",
+      "teams": [
+        {
+          "name": "Grayson High School",
+          "logoUrl": "",
+          "hsfaRank": 4
+        },
+        {
+          "name": "Buford High School",
+          "logoUrl": "",
+          "hsfaRank": 12
+        },
+        {
+          "name": "Rabun Gap-Nacoochee School",
+          "logoUrl": "",
+          "hsfaRank": 32
+        }
+      ]
+    },
+    {
+      "state": "Illinois",
+      "teams": [
+        {
+          "name": "East St. Louis Senior High School",
+          "logoUrl": "",
+          "hsfaRank": 8
+        }
+      ]
+    },
+    {
+      "state": "Maryland",
+      "teams": [
+        {
+          "name": "St. Frances Academy",
+          "logoUrl": "",
+          "hsfaRank": 9
+        },
+        {
+          "name": "DeMatha Catholic High School",
+          "logoUrl": "",
+          "hsfaRank": 26
+        }
+      ]
+    },
+    {
+      "state": "New Jersey",
+      "teams": [
+        {
+          "name": "Bergen Catholic High School",
+          "logoUrl": "",
+          "hsfaRank": 6
+        }
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "teams": [
+        {
+          "name": "Grimsley High School",
+          "logoUrl": "",
+          "hsfaRank": 31
+        }
+      ]
+    },
+    {
+      "state": "Pennsylvania",
+      "teams": [
+        {
+          "name": "St. Joseph\u2019s Preparatory School",
+          "logoUrl": "",
+          "hsfaRank": 7
+        }
+      ]
+    },
+    {
+      "state": "Texas",
+      "teams": [
+        {
+          "name": "Duncanville High School",
+          "logoUrl": "",
+          "hsfaRank": 11
+        },
+        {
+          "name": "North Crowley High School",
+          "logoUrl": "",
+          "hsfaRank": 13
+        },
+        {
+          "name": "Southlake Carroll High School",
+          "logoUrl": "",
+          "hsfaRank": 22
+        },
+        {
+          "name": "Westlake High School",
+          "logoUrl": "",
+          "hsfaRank": 28
+        }
+      ]
+    },
+    {
+      "state": "Utah",
+      "teams": [
+        {
+          "name": "Corner Canyon High School",
+          "logoUrl": "",
+          "hsfaRank": 16
+        }
+      ]
+    }
+  ]
+}
